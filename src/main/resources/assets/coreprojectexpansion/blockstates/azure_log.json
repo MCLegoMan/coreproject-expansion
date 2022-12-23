@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "coreprojectexpansion:block/azure_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "coreprojectexpansion:block/azure_log"
+    },
+    "axis=z": {
+      "model": "coreprojectexpansion:block/azure_log_horizontal",
+      "x": 90
+    }
+  }
+}

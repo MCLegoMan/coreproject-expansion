@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_trapdoor",
+    "coreprojectexpansion:viridescent_trapdoor",
+    "coreprojectexpansion:violet_trapdoor",
+    "coreprojectexpansion:cherry_trapdoor"
+  ]
+}

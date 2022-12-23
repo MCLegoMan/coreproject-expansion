@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "coreprojectexpansion:block/azure_planks",
+    "side": "coreprojectexpansion:block/azure_planks"
+  }
+}

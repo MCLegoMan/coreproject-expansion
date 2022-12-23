@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "coreprojectexpansion:block/azure_slab"
+    },
+    "type=double": {
+      "model": "coreprojectexpansion:block/azure_slab_double"
+    },
+    "type=top": {
+      "model": "coreprojectexpansion:block/azure_slab_top"
+    }
+  }
+}

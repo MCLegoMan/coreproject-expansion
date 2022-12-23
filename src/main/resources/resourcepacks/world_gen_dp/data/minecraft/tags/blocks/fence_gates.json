@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_fence_gate",
+    "coreprojectexpansion:viridescent_fence_gate",
+    "coreprojectexpansion:violet_fence_gate",
+    "coreprojectexpansion:cherry_fence_gate"
+  ]
+}

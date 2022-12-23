@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_pressure_plate",
+    "coreprojectexpansion:viridescent_pressure_plate",
+    "coreprojectexpansion:violet_pressure_plate",
+    "coreprojectexpansion:cherry_pressure_plate"
+  ]
+}

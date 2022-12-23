@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      "coreprojectexpansion:azure_tree",
+      "coreprojectexpansion:viridescent_tree",
+      "coreprojectexpansion:violet_tree",
+      "coreprojectexpansion:cherry_tree"
+    ]
+  }
+}

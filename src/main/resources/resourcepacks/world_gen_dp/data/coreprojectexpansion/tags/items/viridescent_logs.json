@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:viridescent_log",
+    "coreprojectexpansion:viridescent_wood",
+    "coreprojectexpansion:stripped_viridescent_log",
+    "coreprojectexpansion:stripped_viridescent_wood"
+  ]
+}

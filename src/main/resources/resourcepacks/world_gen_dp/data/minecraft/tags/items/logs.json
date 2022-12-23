@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#coreprojectexpansion:azure_logs",
+    "#coreprojectexpansion:viridescent_logs",
+    "#coreprojectexpansion:violet_logs",
+    "#coreprojectexpansion:cherry_logs"
+  ]
+}

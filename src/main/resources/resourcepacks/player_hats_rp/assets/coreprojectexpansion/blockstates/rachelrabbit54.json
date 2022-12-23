@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coreprojectexpansion:item/rachelrabbit54",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "coreprojectexpansion:item/rachelrabbit54"
+    },
+    "facing=south": {
+      "model": "coreprojectexpansion:item/rachelrabbit54",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coreprojectexpansion:item/rachelrabbit54",
+      "y": 270
+    }
+  }
+}

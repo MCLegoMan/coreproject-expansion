@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "coreprojectexpansion:block/viridescent_log",
+    "side": "coreprojectexpansion:block/viridescent_log"
+  }
+}

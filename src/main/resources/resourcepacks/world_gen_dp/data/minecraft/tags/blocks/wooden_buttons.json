@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_button",
+    "coreprojectexpansion:viridescent_button",
+    "coreprojectexpansion:violet_button",
+    "coreprojectexpansion:cherry_button"
+  ]
+}

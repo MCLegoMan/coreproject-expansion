@@ -1,0 +1,148 @@
+{
+  "pack.player_hats.resources.title": "Core Project: Player Hats",
+  "pack.player_hats.resources.description": "Adds player hats",
+  "pack.player_hats.data.title": "Core Project: Player Hats",
+  "pack.player_hats.data.description": "Adds player hats",
+  "pack.goat_horn.data.title": "Core Project: Goat Horn",
+  "pack.goat_horn.data.description": "Adds free goat horns",
+  "pack.expansion.data.title": "Core Project: Expansion",
+  "pack.expansion.data.description": "Adds default data for Expansion Pack",
+  "pack.bio_break.data.title": "Core Project: Bio Break",
+  "pack.bio_break.data.description": "Adds 10 minute break timer (Requires OP)",
+  "pack.world_gen.data.title": "Core Project: World Gen",
+  "pack.world_gen.data.description": "Adds custom world generation",
+
+  "biome.coreprojectexpansion.azure_fields": "Azure Fields",
+  "biome.coreprojectexpansion.viridescent_fields": "Viridescent Fields",
+  "biome.coreprojectexpansion.violet_fields": "Violet Fields",
+  "biome.coreprojectexpansion.cherry_fields": "Cherry Fields",
+  "biome.coreprojectexpansion.vibrant_fields": "Vibrant Fields",
+
+  "itemGroup.coreprojectexpansion.woodsets": "Core Project: Natural",
+
+  "block.coreprojectexpansion.azure_planks": "Azure Planks",
+  "block.coreprojectexpansion.viridescent_planks": "Viridescent Planks",
+  "block.coreprojectexpansion.violet_planks": "Violet Planks",
+  "block.coreprojectexpansion.cherry_planks": "Cherry Planks",
+
+  "block.coreprojectexpansion.azure_sapling": "Azure Sapling",
+  "block.coreprojectexpansion.viridescent_sapling": "Viridescent Sapling",
+  "block.coreprojectexpansion.violet_sapling": "Violet Sapling",
+  "block.coreprojectexpansion.cherry_sapling": "Cherry Sapling",
+
+  "block.coreprojectexpansion.azure_log": "Azure Log",
+  "block.coreprojectexpansion.viridescent_log": "Viridescent Log",
+  "block.coreprojectexpansion.violet_log": "Violet Log",
+  "block.coreprojectexpansion.cherry_log": "Cherry Log",
+
+  "block.coreprojectexpansion.stripped_azure_log": "Stripped Azure Log",
+  "block.coreprojectexpansion.stripped_viridescent_log": "Stripped Viridescent Log",
+  "block.coreprojectexpansion.stripped_violet_log": "Stripped Violet Log",
+  "block.coreprojectexpansion.stripped_cherry_log": "Stripped Cherry Log",
+
+  "block.coreprojectexpansion.stripped_azure_wood": "Stripped Azure Wood",
+  "block.coreprojectexpansion.stripped_viridescent_wood": "Stripped Viridescent Wood",
+  "block.coreprojectexpansion.stripped_violet_wood": "Stripped Violet Wood",
+  "block.coreprojectexpansion.stripped_cherry_wood": "Stripped Cherry Wood",
+
+  "block.coreprojectexpansion.azure_wood": "Azure Wood",
+  "block.coreprojectexpansion.viridescent_wood": "Viridescent Wood",
+  "block.coreprojectexpansion.violet_wood": "Violet Wood",
+  "block.coreprojectexpansion.cherry_wood": "Cherry Wood",
+
+  "block.coreprojectexpansion.azure_leaves": "Azure Leaves",
+  "block.coreprojectexpansion.viridescent_leaves": "Viridescent Leaves",
+  "block.coreprojectexpansion.violet_leaves": "Violet Leaves",
+  "block.coreprojectexpansion.cherry_leaves": "Cherry Leaves",
+
+  "block.coreprojectexpansion.azure_slab": "Azure Slab",
+  "block.coreprojectexpansion.viridescent_slab": "Viridescent Slab",
+  "block.coreprojectexpansion.violet_slab": "Violet Slab",
+  "block.coreprojectexpansion.cherry_slab": "Cherry Slab",
+
+  "block.coreprojectexpansion.azure_fence": "Azure Fence",
+  "block.coreprojectexpansion.viridescent_fence": "Viridescent Fence",
+  "block.coreprojectexpansion.violet_fence": "Violet Fence",
+  "block.coreprojectexpansion.cherry_fence": "Cherry Fence",
+
+  "block.coreprojectexpansion.azure_stairs": "Azure Stairs",
+  "block.coreprojectexpansion.viridescent_stairs": "Viridescent Stairs",
+  "block.coreprojectexpansion.violet_stairs": "Violet Stairs",
+  "block.coreprojectexpansion.cherry_stairs": "Cherry Stairs",
+
+  "block.coreprojectexpansion.azure_button": "Azure Button",
+  "block.coreprojectexpansion.viridescent_button": "Viridescent Button",
+  "block.coreprojectexpansion.violet_button": "Violet Button",
+  "block.coreprojectexpansion.cherry_button": "Cherry Button",
+
+  "block.coreprojectexpansion.azure_pressure_plate": "Azure Pressure Plate",
+  "block.coreprojectexpansion.viridescent_pressure_plate": "Viridescent Pressure Plate",
+  "block.coreprojectexpansion.violet_pressure_plate": "Violet Pressure Plate",
+  "block.coreprojectexpansion.cherry_pressure_plate": "Cherry Pressure Plate",
+
+  "block.coreprojectexpansion.azure_door": "Azure Door",
+  "block.coreprojectexpansion.viridescent_door": "Viridescent Door",
+  "block.coreprojectexpansion.violet_door": "Violet Door",
+  "block.coreprojectexpansion.cherry_door": "Cherry Door",
+
+  "block.coreprojectexpansion.azure_trapdoor": "Azure Trapdoor",
+  "block.coreprojectexpansion.viridescent_trapdoor": "Viridescent Trapdoor",
+  "block.coreprojectexpansion.violet_trapdoor": "Violet Trapdoor",
+  "block.coreprojectexpansion.cherry_trapdoor": "Cherry Trapdoor",
+
+  "block.coreprojectexpansion.azure_fence_gate": "Azure Fence Gate",
+  "block.coreprojectexpansion.viridescent_fence_gate": "Viridescent Fence Gate",
+  "block.coreprojectexpansion.violet_fence_gate": "Violet Fence Gate",
+  "block.coreprojectexpansion.cherry_fence_gate": "Cherry Fence Gate",
+
+  "block.coreprojectexpansion.azure_sign": "Azure Sign",
+  "block.coreprojectexpansion.viridescent_sign": "Viridescent Sign",
+  "block.coreprojectexpansion.violet_sign": "Violet Sign",
+  "block.coreprojectexpansion.cherry_sign": "Cherry Sign",
+
+  "item.coreprojectexpansion.azure_fruit": "Azure Fruit",
+  "item.coreprojectexpansion.viridescent_fruit": "Viridescent Fruit",
+  "item.coreprojectexpansion.violet_fruit": "Violet Fruit",
+  "item.coreprojectexpansion.cherry": "Cherries",
+
+  "block.coreprojectexpansion.azure_rose": "Azure Rose",
+  "block.coreprojectexpansion.potted_azure_rose": "Potted Azure Rose",
+  "block.coreprojectexpansion.viridescent_rose": "Viridescent Rose",
+  "block.coreprojectexpansion.potted_viridescent_rose": "Potted Viridescent Rose",
+  "block.coreprojectexpansion.violet_rose": "Violet Rose",
+  "block.coreprojectexpansion.potted_violet_rose": "Potted Violet Rose",
+  "block.coreprojectexpansion.cherry_rose": "Cherry Rose",
+  "block.coreprojectexpansion.potted_cherry_rose": "Potted Cherry Rose",
+
+  "block.coreprojectexpansion.blueberry_bush": "Blueberry Bush",
+  "item.coreprojectexpansion.blueberries": "Blueberries",
+
+  "itemGroup.coreprojectexpansion.core_playerhats": "Core: Player Hats",
+
+  "item.coreprojectexpansion.reporter": "Reporter",
+  "item.coreprojectexpansion.straw_hat": "Straw Hat",
+  "item.coreprojectexpansion.cat_ears": "Cat Ears",
+  "block.coreprojectexpansion.bin": "Rubbish Bin",
+  "item.coreprojectexpansion.bin": "Rubbish Bin",
+  "item.coreprojectexpansion.lego": "Lego",
+  "item.coreprojectexpansion.screaminglego": "Screaming Lego",
+  "block.coreprojectexpansion.dark": "Dark",
+  "item.coreprojectexpansion.ducksy": "Ducksy",
+  "item.coreprojectexpansion.foxy": "Foxy",
+  "item.coreprojectexpansion.lewis": "Lewis",
+  "item.coreprojectexpansion.majikz": "Majikz",
+  "item.coreprojectexpansion.niki": "Niki",
+  "block.coreprojectexpansion.scrammy": "Scrammy",
+  "block.coreprojectexpansion.rachel": "Henry",
+  "item.coreprojectexpansion.waffel": "Waffel",
+  "item.coreprojectexpansion.zombie": "Zombie",
+  "item.coreprojectexpansion.mustache": "Mustache",
+
+  "itemGroup.coreprojectexpansion.misc": "Core Project: Misc",
+
+  "item.coreprojectexpansion.fire_totem": "§eTotem of Fire Resistance§r",
+  "item.coreprojectexpansion.water_totem": "§eTotem of Water Breathing§r",
+  "item.legolib.debug_udrs": "§eTotem of Flipping§r",
+  "item.legolib.debug_short": "§eTotem of Shrinking§r",
+  "item.legolib.debug_tall": "§eTotem of Growing§r"
+}

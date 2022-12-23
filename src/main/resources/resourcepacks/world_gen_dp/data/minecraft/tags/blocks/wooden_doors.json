@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_door",
+    "coreprojectexpansion:viridescent_door",
+    "coreprojectexpansion:violet_door",
+    "coreprojectexpansion:cherry_door"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coreprojectexpansion:item/x052805x",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "coreprojectexpansion:item/x052805x"
+    },
+    "facing=south": {
+      "model": "coreprojectexpansion:item/x052805x",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coreprojectexpansion:item/x052805x",
+      "y": 270
+    }
+  }
+}

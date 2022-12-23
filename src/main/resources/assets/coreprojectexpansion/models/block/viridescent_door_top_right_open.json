@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "coreprojectexpansion:block/viridescent_door_bottom",
+    "top": "coreprojectexpansion:block/viridescent_door_top"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:potted_azure_sapling",
+    "coreprojectexpansion:potted_viridescent_sapling",
+    "coreprojectexpansion:potted_violet_sapling",
+    "coreprojectexpansion:potted_cherry_sapling"
+  ]
+}

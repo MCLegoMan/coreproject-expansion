@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.mclegoman.coreprojectexpansion.common.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CoreProjectExpansionTradeOffersMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

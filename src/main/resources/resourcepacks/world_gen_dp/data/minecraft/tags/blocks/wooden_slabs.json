@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_slab",
+    "coreprojectexpansion:viridescent_slab",
+    "coreprojectexpansion:violet_slab",
+    "coreprojectexpansion:cherry_slab"
+  ]
+}

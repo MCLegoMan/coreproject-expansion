@@ -1,0 +1,4 @@
+,
+    "fabric-datagen": [
+      "com.mclegoman.coreprojectexpansion.common.datagen.CoreProjectExpansionDatagen"
+    ]

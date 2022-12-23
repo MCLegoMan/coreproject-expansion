@@ -1,0 +1,8 @@
+{
+  "player_death": {
+    "subtitle": "coreproject.player_death",
+    "sounds": [
+      "coreproject:player_death"
+    ]
+  }
+}

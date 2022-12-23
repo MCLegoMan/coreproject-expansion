@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "coreprojectexpansion:item/darksunshyne",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "coreprojectexpansion:item/darksunshyne"
+    },
+    "facing=south": {
+      "model": "coreprojectexpansion:item/darksunshyne",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "coreprojectexpansion:item/darksunshyne",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "coreprojectexpansion:azure_fields",
+      "required": false
+    },
+    {
+      "id": "coreprojectexpansion:viridescent_fields",
+      "required": false
+    },
+    {
+      "id": "coreprojectexpansion:violet_fields",
+      "required": false
+    },
+    {
+      "id": "coreprojectexpansion:cherry_fields",
+      "required": false
+    },
+    {
+      "id": "coreprojectexpansion:vibrant_fields",
+      "required": false
+    }
+  ]
+}

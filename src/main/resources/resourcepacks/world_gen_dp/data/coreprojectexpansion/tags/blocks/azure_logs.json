@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "coreprojectexpansion:azure_log",
+    "coreprojectexpansion:azure_wood",
+    "coreprojectexpansion:stripped_azure_log",
+    "coreprojectexpansion:stripped_azure_wood"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "player_hats",
+            "prefix": "player_hats/"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "coreprojectexpansion",
+  "version": "${version}",
+
+  "name": "Core Project: Expansion Pack",
+  "description": "Made for the Core Series!",
+  "authors": [
+    "MCLegoMan"
+  ],
+  "contact": {
+    "homepage": "https://twitch.tv/mclegoman"
+  },
+
+  "license": "MCLM-OSL (2022)",
+  "icon": "assets/core/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mclegoman.coreprojectexpansion.server.CoreProjectExpansionServer"
+    ],
+    "client": [
+      "com.mclegoman.coreprojectexpansion.client.CoreProjectExpansionClient"
+    ],
+    "terrablender": [
+      "com.mclegoman.coreprojectexpansion.common.features.CoreProjectExpansionTerraBlender"
+    ]
+  },
+  "mixins": [
+    "coreprojectexpansion.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.19.3",
+    "java": ">=17",
+    "legolib": ">=2.4.2",
+    "coreproject": "*",
+    "terrablender": ">=2.1.0.132"
+  }
+}

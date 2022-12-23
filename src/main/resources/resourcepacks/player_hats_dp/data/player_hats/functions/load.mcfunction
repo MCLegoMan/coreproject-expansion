@@ -1,0 +1,17 @@
+scoreboard objectives add mclegoman_ph trigger
+scoreboard objectives add mclegogoat_ph trigger
+scoreboard objectives add darksunshyne_ph trigger
+scoreboard objectives add ducksyy_ph trigger
+scoreboard objectives add xxfoxytubexx_ph trigger
+scoreboard objectives add lewis_plays_ph trigger
+scoreboard objectives add majikz_ph trigger
+scoreboard objectives add rogooey_ph trigger
+scoreboard objectives add x052805x_ph trigger
+scoreboard objectives add rachelrabbit54_ph trigger
+scoreboard objectives add der_waffelman_ph trigger
+scoreboard objectives add zombiegirl_mc_ph trigger
+scoreboard objectives add mustache_ph trigger
+scoreboard objectives add bin_ph trigger
+scoreboard objectives add reporter_ph trigger
+scoreboard objectives add straw_hat_ph trigger
+scoreboard objectives add cat_ears_ph trigger

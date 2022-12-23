@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "coreprojectexpansion:block/viridescent_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "coreprojectexpansion:block/viridescent_wood"
+    },
+    "axis=z": {
+      "model": "coreprojectexpansion:block/viridescent_wood",
+      "x": 90
+    }
+  }
+}

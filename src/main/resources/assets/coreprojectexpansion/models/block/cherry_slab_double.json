@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "coreprojectexpansion:block/cherry_planks",
+    "side": "coreprojectexpansion:block/cherry_planks"
+  }
+}

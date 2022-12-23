@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "coreprojectexpansion:violet_planks"
+    }
+  ],
+  "result": {
+    "item": "coreprojectexpansion:violet_button"
+  }
+}
